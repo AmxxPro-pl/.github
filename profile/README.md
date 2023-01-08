@@ -7,9 +7,9 @@
 
 | Nazwa Pluginu                                                                                             | Cena SMA           | Cena AMXX  | Opis |
 |:--------------------------------------------------------------------------------------------------------- |:----------------------------  |:----------------------|:----------|
-| [Skiny za Kille](LINK)                                                | 37 zł                 | 15 zł     | System skinów, które można ustawiać po zdobyciu odpowiedniej liczby zabójstw
-| [Kosy z Umiejętnościami](LINK)                                      | 25 zł                 | 10 zł     | Kosy z umiejętnościami (osoby chętne o dodanie większej ilości umiejętności prosżę o kontakt)
-| [Easter Eggs](LINK)                                    | 20 zł                 | 10 zł     | Plugin na jajka świąteczne wraz z top15 idealne na wielkanoc
+| [Skiny za Kille](https://github.com/AmxxPro-pl/Skiny-za-Kille)                                                | 37 zł                 | 15 zł     | System skinów, które można ustawiać po zdobyciu odpowiedniej liczby zabójstw
+| [Kosy z Umiejętnościami](https://github.com/AmxxPro-pl/Kosy-z-Umiej-tno-ciami)                                      | 25 zł                 | 10 zł     | Kosy z umiejętnościami (osoby chętne o dodanie większej ilości umiejętności prosżę o kontakt)
+| [Easter Eggs](https://github.com/AmxxPro-pl/Easter-Eggs)                                    | 20 zł                 | 10 zł     | Plugin na jajka świąteczne wraz z top15 idealne na wielkanoc
 
 -------
 
@@ -17,9 +17,9 @@
 
 | Nazwa Paczki                                                              | Cena SMA          | Opis |
 |:------------------------------------------------------------------------  |:---------------------------- |:----------|
-| [ONLY AWP + 4FUN](LINK)                      | FREE!                       | Unikatowa paczka Only AWP + 4FUN - jedyna w swoim rodzaju poprzez unikatowy system losowania trybów  |
-| [ONLY DD2](link)                             | 170 zł                     | Paczka ONLY DD2 z ciekawymi dodatkami takimi jak: skiny za monety/sklep MVP/Menu z ustawieniami hudu i wiele więcej! |
-| [AIM ONLY HS](link)                                | 25 zł                      | Paczka AIM/ONLY HS - zwykła paczka Aim z hudem/rangami itd.
+| [ONLY AWP + 4FUN](https://github.com/AmxxPro-pl/Only-AWP-4FUN)                      | FREE!                       | Unikatowa paczka Only AWP + 4FUN - jedyna w swoim rodzaju poprzez unikatowy system losowania trybów  |
+| [ONLY DD2](https://github.com/AmxxPro-pl/Only-DD2-2)                             | 170 zł                     | Paczka ONLY DD2 z ciekawymi dodatkami takimi jak: skiny za monety/sklep MVP/Menu z ustawieniami hudu i wiele więcej! |
+| [AIM ONLY HS](https://github.com/AmxxPro-pl/AIM-Only-HS)                                | 25 zł                      | Paczka AIM/ONLY HS - zwykła paczka Aim z hudem/rangami itd.
 
 
 ------------------
