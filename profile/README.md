@@ -6,7 +6,7 @@
 <h3 align="center">⚙️ PLUGINY</h3>
 
 | Nazwa Pluginu | Cena SMA | Cena AMXX | Opis | Autor |
-|:----------------------------------------------------|:--------------------------|:-------------------|:----------|:---------------------------|
+|:----------------------------------------------------|:--------------------------|:-------------------|:------------|:---------------------------|
 | [Skins for Kills](https://github.com/AmxxPro-pl/Skiny-za-Kille)                                                | 37 zł                 | 15 zł     | System skinów, które można ustawiać po zdobyciu odpowiedniej liczby zabójstw | [N1K1Cz](https://github.com/N1K1Cz)
 | [Knife with Skills](https://github.com/AmxxPro-pl/Kosy-z-Umiej-tno-ciami)                                      | 25 zł                 | 10 zł     | Kosy z umiejętnościami (osoby chętne o dodanie większej ilości umiejętności prosżę o kontakt) | [N1K1Cz](https://github.com/N1K1Cz)
 | [Easter Eggs](https://github.com/AmxxPro-pl/Easter-Eggs)                                    | 20 zł                 | 10 zł     | Plugin na jajka świąteczne wraz z top15 idealne na wielkanoc | [N1K1Cz](https://github.com/N1K1Cz)
