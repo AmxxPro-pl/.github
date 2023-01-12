@@ -11,6 +11,7 @@
 | [Knife with Skills](https://github.com/AmxxPro-pl/Kosy-z-Umiej-tno-ciami)                                      | 25 zł                 | 10 zł     | Kosy z umiejętnościami (osoby chętne o dodanie większej ilości umiejętności prosżę o kontakt) | [N1K1Cz](https://github.com/N1K1Cz)
 | [Easter Eggs](https://github.com/AmxxPro-pl/Easter-Eggs)                                    | 20 zł                 | 10 zł     | Plugin na jajka świąteczne wraz z top15 idealne na wielkanoc | [N1K1Cz](https://github.com/N1K1Cz)
 | [Contact with Administration](https://github.com/AmxxPro-pl/)                                    | 40 zł                 | 25 zł     | Rozbudowany system kontaktu do administracji | [N1K1Cz](https://github.com/N1K1Cz) & [mpN`](https://github.com/MPNOOO)
+| [mVip](https://github.com/AmxxPro-pl/mVip)                                    | 50 zł                 | 30 zł     | Rozbudowany system VIP | [mpN`](https://github.com/MPNOOO)
 
 -------
 
