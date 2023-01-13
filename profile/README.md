@@ -1,8 +1,6 @@
 <div align="center">
 <h1><p></p>AmxxPro.pl - Paczki & Pluginy CS 1.6<p></p></h1>
 
--------
-
 <h3 align="center">⚙️ PLUGINY</h3>
 
 | Nazwa Pluginu | Cena SMA | Cena AMXX | Opis | Autor |
@@ -24,7 +22,7 @@
 | [AIM ONLY HS](https://github.com/AmxxPro-pl/AIM-Only-HS) | 25 zł | Paczka AIM/ONLY HS - zwykła paczka Aim z hudem/rangami itd. | [N1K1Cz](https://github.com/N1K1Cz)
 
 
-------------------
+-------
 
 <a href="https://discord.gg/JnFrthDvVs"><img src="https://discord.com/api/guilds/1056322045513842778/widget.png?style=banner4"></a>
 
