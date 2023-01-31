@@ -11,7 +11,7 @@
 | [Skins for Kills](https://github.com/AmxxPro-pl/Skiny-za-Kille)                                                | 37 zł                 | 15 zł     | System skinów, które można ustawiać po zdobyciu odpowiedniej liczby zabójstw | [N1K1Cz](https://github.com/N1K1Cz)
 | [Knife with Skills](https://github.com/AmxxPro-pl/Kosy-z-Umiej-tno-ciami)                                      | 25 zł                 | 10 zł     | Kosy z umiejętnościami (osoby chętne o dodanie większej ilości umiejętności prosżę o kontakt) | [N1K1Cz](https://github.com/N1K1Cz)
 | [Contact with Administration](https://github.com/AmxxPro-pl/Contact-with-Administration)                                    | 40 zł                 | 25 zł     | Rozbudowany system kontaktu do administracji | [N1K1Cz](https://github.com/N1K1Cz) & [mpN`](https://github.com/MPNOOO)
-| [mVip](https://github.com/AmxxPro-pl/mVip)                                    | 40 zł                 | 20 zł     | Rozbudowany system VIP | [mpN`](https://github.com/MPNOOO)
+| [mVip](https://github.com/AmxxPro-pl/mVip)                                    | 30 zł                 | 15 zł     | Rozbudowany system VIP | [mpN`](https://github.com/MPNOOO)
 | [Report Discord](https://github.com/AmxxPro-pl/Report-Players)                                    | FREE                 | FREE     | System Zgłoszeń gracza zintegrowany z Discord | [N1K1Cz](https://github.com/N1K1Cz)
 
 -------
