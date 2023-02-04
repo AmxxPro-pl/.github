@@ -14,6 +14,7 @@
 | [mVip](https://github.com/AmxxPro-pl/mVip) | 50 zł | Rozbudowany system VIP | [mpN`](https://github.com/MPNOOO)
 | [Report Discord](https://github.com/AmxxPro-pl/Report-Players) | FREE  | System Zgłoszeń gracza zintegrowany z Discord | [N1K1Cz](https://github.com/N1K1Cz)
 | [mRanks](https://github.com/AmxxPro-pl/mRanks) | 60 zł | Rozbudowany system Rankingu z Punktami | [mpN`](https://github.com/MPNOOO)
+| [Quiz System]https://github.com/AmxxPro-pl/Quiz-System) | 20 zł | System Quiz, który urozmaici rozgrywkę na serwerze | [N1K1Cz](https://github.com/N1K1Cz)
 
 -------
 
