@@ -20,7 +20,7 @@
 <h3 align="center">🛠 PACZKI</h3>
 
 | Nazwa Paczki | Cena | Opis | Autor |
-|:----------------------------------------------------|:--------------------------|:-------------------|:-------------------|:---------------------------|
+|:---------------------------------------------------|:-------------------|:-------------------|:---------------------------|
 | [ONLY AWP + 4FUN](https://github.com/AmxxPro-pl/Only-AWP-4FUN) | FREE! | Unikatowa paczka Only AWP + 4FUN - jedyna w swoim rodzaju poprzez unikatowy system losowania trybów  | [N1K1Cz](https://github.com/N1K1Cz)
 | [ONLY DD2](https://github.com/AmxxPro-pl/Only-DD2-2) | 170 zł | Paczka ONLY DD2 z ciekawymi dodatkami takimi jak: skiny za monety/sklep MVP/Menu z ustawieniami hudu i wiele więcej! | [N1K1Cz](https://github.com/N1K1Cz)
 | [AIM ONLY HS](https://github.com/AmxxPro-pl/AIM-Only-HS) | 25 zł | Paczka AIM/ONLY HS - zwykła paczka Aim z hudem/rangami itd. | [N1K1Cz](https://github.com/N1K1Cz)
