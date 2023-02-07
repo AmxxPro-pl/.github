@@ -8,7 +8,6 @@
 
 | Nazwa Pluginu | Cena | Wersja | Opis | Autor |
 |:----------------------------------------------------|:-------------------|:-------------------|:------------|:---------------------------|
-| [Skins for Kills](https://github.com/AmxxPro-pl/Skiny-za-Kille) | 20 zł | 1.0 | System skinów, które można ustawiać po zdobyciu odpowiedniej liczby zabójstw | [N1K1Cz](https://github.com/N1K1Cz)
 | [Contact with Administration](https://github.com/AmxxPro-pl/Contact-with-Administration) | 30 zł | 1.0 | Rozbudowany system kontaktu do administracji | [N1K1Cz](https://github.com/N1K1Cz) & [mpN`](https://github.com/MPNOOO)
 | [mVip](https://github.com/AmxxPro-pl/mVip) | 35 zł | 1.2.6 | Rozbudowany system VIP | [mpN`](https://github.com/MPNOOO)
 | [Report Discord](https://github.com/AmxxPro-pl/Report-Players) | FREE | 1.0 | System Zgłoszeń gracza zintegrowany z Discord | [N1K1Cz](https://github.com/N1K1Cz)
