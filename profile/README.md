@@ -9,9 +9,7 @@
 | Nazwa Pluginu | Cena | Wersja | Opis | Autor |
 |:----------------------------------------------------|:-------------------|:-------------------|:------------|:---------------------------|
 | [Contact with Administration](https://github.com/AmxxPro-pl/Contact-with-Administration) | 30 zł | 1.0 | Rozbudowany system kontaktu do administracji | [N1K1Cz](https://github.com/N1K1Cz) & [mpN`](https://github.com/MPNOOO)
-| [mVip](https://github.com/AmxxPro-pl/mVip) | 35 zł | 1.2.6 | Rozbudowany system VIP | [mpN`](https://github.com/MPNOOO)
 | [Report Discord](https://github.com/AmxxPro-pl/Report-Players) | FREE | 1.0 | System Zgłoszeń gracza zintegrowany z Discord | [N1K1Cz](https://github.com/N1K1Cz)
-| [mRanks](https://github.com/AmxxPro-pl/mRanks) | 40 zł | 1.3.4 | Rozbudowany system Rankingu z Punktami | [mpN`](https://github.com/MPNOOO)
 | [Quiz System](https://github.com/AmxxPro-pl/Quiz-System) | 15 zł | 1.1 | System Quiz, który urozmaici rozgrywkę na serwerze | [N1K1Cz](https://github.com/N1K1Cz)
 | [Misje](https://github.com/AmxxPro-pl/Misje) | 50 zł | v1 | Rozbudowany System Misji | Smiguel
 
