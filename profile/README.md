@@ -9,7 +9,7 @@
 | Nazwa Pluginu | Cena | Wersja | Opis | Autor |
 |:----------------------------------------------------|:-------------------|:-------------------|:------------|:---------------------------|
 | [Contact with Administration](https://github.com/AmxxPro-pl/Contact-with-Administration) | 30 zł | 1.1 | Rozbudowany system kontaktu do administracji | [N1K1Cz](https://github.com/N1K1Cz)
-| [Report Discord](https://github.com/AmxxPro-pl/Report-Players) | FREE | 1.1 | System Zgłoszeń gracza zintegrowany z Discord | [N1K1Cz](https://github.com/N1K1Cz)
+| [Report Discord](https://github.com/AmxxPro-pl/Report-Players) | [FREE](https://github.com/AmxxPro-pl/Report-Players/releases) | 1.1 | System Zgłoszeń gracza zintegrowany z Discord | [N1K1Cz](https://github.com/N1K1Cz)
 | [Quiz System](https://github.com/AmxxPro-pl/Quiz-System) | 15 zł | 1.1 | System Quiz, który urozmaici rozgrywkę na serwerze | [N1K1Cz](https://github.com/N1K1Cz)
 | [Misje](https://github.com/AmxxPro-pl/Misje) | 50 zł | v1 | Rozbudowany System Misji | Smiguel
 
