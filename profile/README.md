@@ -10,7 +10,7 @@
 |:---------------------|:-------------------|:-------------------|:------------|:--------------|
 | [Contact with Administration](https://github.com/AmxxPro-pl/Contact-with-Administration) | 30 zł | 1.1 | Rozbudowany system kontaktu do administracji | [N1K1Cz](https://github.com/N1K1Cz)
 | [Report Discord](https://github.com/AmxxPro-pl/Report-Players) | [DOWNLOAD](https://github.com/AmxxPro-pl/Report-Players/releases) | [1.1](https://github.com/AmxxPro-pl/Report-Players/releases) | System Zgłoszeń gracza zintegrowany z Discord | [N1K1Cz](https://github.com/N1K1Cz)
-| [Quiz System](https://github.com/AmxxPro-pl/Quiz-System) | 15 zł | [1.5](https://github.com/AmxxPro-pl/Quiz-System/releases) | System Quiz, który urozmaici rozgrywkę na serwerze | [N1K1Cz](https://github.com/N1K1Cz)
+| [Quiz System](https://github.com/AmxxPro-pl/Quiz-System) | 20 zł | [1.5](https://github.com/AmxxPro-pl/Quiz-System/releases) | System Quiz, który urozmaici rozgrywkę na serwerze | [N1K1Cz](https://github.com/N1K1Cz)
 | [Misje](https://github.com/AmxxPro-pl/Misje) | 50 zł | v1 | Rozbudowany System Misji | Smiguel
 
 -------
