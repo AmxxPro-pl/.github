@@ -29,7 +29,7 @@
 <h3 align="center">💲 DARMOWE</h3>
 
 | Nazwa | DOWNLOAD | Opis | Wersja | Autor |
-|:--------------------|:-------------------|:-------------------|:----------------|
+|:--------------------|:-------------------|:-------------------|:-------------------|:----------------|
 | [Report Discord](https://github.com/AmxxPro-pl/Report-Players) | [DOWNLOAD](https://github.com/AmxxPro-pl/Report-Players/releases) | [v1.2](https://github.com/AmxxPro-pl/Report-Players/releases) | System Zgłoszeń gracza zintegrowany z Discord | [N1K1Cz](https://github.com/N1K1Cz)
 | [ONLY AWP + 4FUN](https://github.com/AmxxPro-pl/Only-AWP-4FUN) | [DOWNLOAD](https://megawrzuta.pl/download/cfe4b26451cfe1d0a417aac090216de5.html) | v1 | Unikatowa paczka Only AWP + 4FUN | [N1K1Cz](https://github.com/N1K1Cz)
   
