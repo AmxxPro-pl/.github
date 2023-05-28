@@ -23,7 +23,8 @@
 |:--------------------|:-------------------|:-------------------|:----------------|
 | [Paczki na zamówienie](https://github.com/AmxxPro-pl/) | -/- | Aby zamówić paczkę złóż zlecenie na [DISCORD](https://discord.gg/JnFrthDvVs) | [AmxxPro.pl](https://github.com/AmxxPro-pl)
 | [ONLY DD2](https://github.com/AmxxPro-pl/Only-DD2-2) | 120 zł | Obecnie najlepsza paczka DD2 dostępna na rynku (Dostępna druga wersja!) | [N1K1Cz](https://github.com/N1K1Cz)
-
+| [ONLY DD2 v2](https://github.com/AmxxPro-pl/Only-DD2-v2) | 145 zł | Kolejna wersja DD2 zawierajaca nowe pluginy | [N1K1Cz](https://github.com/N1K1Cz)
+  
 -------
 
 <h3 align="center">💲 DARMOWE</h3>
