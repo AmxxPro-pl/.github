@@ -14,7 +14,7 @@
 | [BuyZone Slaper](https://github.com/AmxxPro-pl/BuyZone-Slaper) | 10 zł | 1.0 | System slapowania osób kampiących na BuyZone'ie | [N1K1Cz](https://github.com/N1K1Cz)
 | [Register System](https://github.com/AmxxPro-pl/Register-System) | 40 zł | [2.2](https://github.com/AmxxPro-pl/Register-System/releases) | Rozbudowany System Rejestracji nicku | [N1K1Cz](https://github.com/N1K1Cz)
 | [Ranks System](https://github.com/AmxxPro-pl/Ranks-System) | 40 zł | [1.1](https://github.com/AmxxPro-pl/Ranks-System/releases) | Rozbudowany System Rankingu | [N1K1Cz](https://github.com/N1K1Cz)
-| [Prefix for Money](https://github.com/AmxxPro-pl/Prefix-za-Monety) | 10 zł | [1.0](https://github.com/AmxxPro-pl/Prefix-za-Monety/releases) | Zakup Prefix za Dowolną walute! | [N1K1Cz](https://github.com/N1K1Cz)
+| [Prefix for Money](https://github.com/AmxxPro-pl/Prefix-za-Monety) | 10 zł | [1.1](https://github.com/AmxxPro-pl/Prefix-za-Monety/releases) | Zakup Prefix za Dowolną walute! | [N1K1Cz](https://github.com/N1K1Cz)
 -------
 
 <h3 align="center">🛠 PACZKI</h3>
