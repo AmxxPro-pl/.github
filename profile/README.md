@@ -17,6 +17,7 @@
 | [Prefix for Money](https://github.com/AmxxPro-pl/Prefix-za-Monety) | 10 zł | [1.1](https://github.com/AmxxPro-pl/Prefix-za-Monety/releases) | Zakup Prefix za Dowolną walute! | [N1K1Cz](https://github.com/N1K1Cz)
 | [Advertisement Professional System](https://github.com/AmxxPro-pl/Advertisements-Professional-System) | 20 zł | [1.0](https://github.com/AmxxPro-pl/Advertisements-Professional-System/releases) | Zaawansowany system reklam | [N1K1Cz](https://github.com/N1K1Cz)
 | [Skins System Professional](https://github.com/AmxxPro-pl/Skins-System-Professional) | 80 zł | [1.0](https://github.com/AmxxPro-pl/Skins-System-Professional/releases) | Zaawansowany system skinów | [N1K1Cz](https://github.com/N1K1Cz)
+| [Mission System](https://github.com/AmxxPro-pl/Mission-System) | 100 zł | [1.0](https://github.com/AmxxPro-pl/Mission-System/releases) | Zaawansowany system misji (JB, COD, ZM itd.) | [N1K1Cz](https://github.com/N1K1Cz)
 -------
 
 <h3 align="center">🛠 PACZKI</h3>
